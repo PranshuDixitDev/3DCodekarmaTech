@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from "react-router-dom";
 import { motion } from 'framer-motion';
-import arrow from "../assets/icons/arrow.svg"; // Ensure the path to the arrow icon is correct
+import arrow from "../assets/icons/arrow.svg";
 
 const containerVariants = {
   hidden: { opacity: 0, y: 20 },
